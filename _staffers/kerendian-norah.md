@@ -4,9 +4,9 @@ role: Tutor
 pronouns: she/her
 email: 
 photo: assets/staff-images/wi24/kerendian-norah.jpg
-description: 2nd year, Math-Econ, Data Science Minor, Marshall
+description: 2nd year, Data Science, Marshall
 hometown: Los Angeles, CA
 askabout: Reading, networking, taekwondo
-foodemoji: 🥐 
-food: Parisien Gourmandises
+foodemoji: 🍛 
+food: 🥐 Parisien Gourmandises, La Mesa Pizzaworks
 ---
