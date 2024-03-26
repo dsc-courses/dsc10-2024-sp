@@ -47,9 +47,9 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 ### Lecture
 
 There are three lecture sections:
-- Section A: MWF 9-9:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
-- Section B: MWF 10-10:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
-- Section C: MWF 11-11:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
+- Section A: MWF 9-9:50AM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section B: MWF 10-10:50AM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section C: MWF 11-11:50AM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
@@ -62,9 +62,9 @@ You can attend any lecture section, but if space fills up, priority will be give
 ### Discussion 
 
 There are three discussion sections:
-- Section A: Monday 5-5:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
-- Section B: Monday 6-6:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
-- Section C: Monday 7-7:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section A: Wednesday 2-2:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section B: Wednesday 3-3:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section C: Wednesday 4-4:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
 Discussion section starts on the first day of class with some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
 
@@ -80,9 +80,9 @@ Because most discussion sections will be used for quizzes, **discussion sections
 ### Extra Practice Sessions 
 
 There will be three extra practice sessions, held during the scheduled "Laboratory" sections:
-- Section A: Friday 5-5:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
-- Section B: Friday 6-6:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
-- Section C: Friday 7-7:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section A: Friday 2-2:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section B: Friday 3-3:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section C: Friday 4-4:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
 The extra practice sessions will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending the extra practice sessions and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
 
@@ -139,10 +139,10 @@ additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/SjN4vB).
+  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/ZKMd5E).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/692988). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/757097). This is where all of
   your grades will live as well. If you didn’t already get an invitation to our Gradescope course, reach out to the instructional staff on Ed.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -158,7 +158,7 @@ them, too (though they're all linked at the top of this website).
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6) at the start of the quarter. This is required of all students.
+Please fill out this short [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
@@ -213,7 +213,7 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will _usually_ be due on **Saturdays or Tuesdays at 11:59PM**, 
+deadline**. Lab assignments will _usually_ be due on **Thursdays at 11:59PM**, 
 though you should refer to the homepage of this website for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -248,7 +248,7 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will _usually_ be due on **Thursdays at
+notebook to Gradescope. Homeworks will be due on **Tuesdays at
 11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
 is dropped from your grade calculation at the end of the quarter.**
@@ -369,27 +369,26 @@ We will assess your knowledge of course material frequently through quizzes and 
 ### Exams
 
 This class has one Midterm Exam and one Final Exam:
-- Midterm Exam: Monday, February 12, **during your registered lecture slot**
-- Final Exam: Saturday, March 16, 7-10PM, location TBD
+- Midterm Exam: Friday, May 3, **during your enrolled lecture slot**
+- Final Exam: Saturday, June 8, 7-10PM, location TBD
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ### Quizzes
 
 Quizzes are a relatively new component of the course, introduced last quarter, to help students get more practice solving problems on-paper without a computer in front of them, as they'll need to do on exams. Quiz questions are meant to be more straightforward to than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam. 
 
-There are six quizzes throughout the quarter, administered in discussion section:
+There are five quizzes throughout the quarter, administered in the lab section (on Fridays):
 
-- Quiz 1: Monday, January 22
-- Quiz 2: Monday, January 29
-- Quiz 3: Monday, February 5
-- Quiz 4: Monday, February 26
-- Quiz 5: Monday, March 4
-- Quiz 6: Monday, March 11
+- Quiz 1: Friday, April 12
+- Quiz 2: Friday, April 26
+- Quiz 3: Friday, May 17
+- Quiz 4: Friday, May 24
+- Quiz 5: Friday, May 31
 
-We will count only your four highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
+We will count only your three highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores, so each undropped quiz is worth 5%. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
 You must attend **your assigned discussion section** to take quizzes; see the [Discussion](#discussion) section of the syllabus for details. We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because two quiz scores are dropped.
 
@@ -401,8 +400,8 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lectureand Discussion (with <b style="color:red">Quizzes</b>) | | Lecture | | Lecture and Extra Practice Session | |
-| | | <b style="color:red">Lab due</b> (some weeks) | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due</b> (some weeks) |
+| | Lecture | | Lecture and Discussion | | Lecture and Lab Session(for Quiz) | |
+| | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due</b> (usually) | | |
 
 ---
 
@@ -414,11 +413,11 @@ how grades will be computed:
 | **Component** | **Weight** | **Notes** |
 | Lab Assignments | 10% | drop lowest score |
 | Homework Assignments | 25% | 5% each, drop lowest score |
-| Quizzes | 16% | 4% each, drop two lowest scores |
+| Quizzes | 15% | 5% each, drop two lowest scores |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
-| Final Exam | 19% | |
+| Final Exam | 20% | |
 
 Note that all assignments in each category will be worth the same amount,
 regardless of the number of points they are graded out of.
@@ -427,7 +426,7 @@ regardless of the number of points they are graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/unNJmnGWEbHtpyLc8). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/5LMq7GEneFTWXzHL9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
