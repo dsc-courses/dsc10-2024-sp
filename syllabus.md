@@ -80,9 +80,9 @@ Because most discussion sections will be used for quizzes, **discussion sections
 ### Extra Practice Sessions 
 
 There will be three extra practice sessions, held during the scheduled "Laboratory" sections:
-- Section A: Friday 2-2:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section B: Friday 3-3:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section C: Friday 4-4:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section A: Friday 2-2:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section B: Friday 3-3:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section C: Friday 4-4:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
 The extra practice sessions will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending the extra practice sessions and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
 
