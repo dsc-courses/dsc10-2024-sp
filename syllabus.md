@@ -66,29 +66,30 @@ There are three discussion sections:
 - Section B: Wednesday 3-3:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 - Section C: Wednesday 4-4:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
-Discussion section starts on the first day of class with some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+Discussion section starts in Week 1. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
 
-Most other discussion sections will not be instructive, but instead we will use this time to administer quizzes. See the [Quizzes](#quizzes) section of the syllabus for more information.
+Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
 
-You must attend the discussion section that corresponds to the lecture section you are enrolled in. On the [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
+You can attend any discussion session, but if space fills up, priority will be given to students officially enrolled in that section.
+
+**Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
  
 <!-- {: .warning }
 **In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
 
-Because most discussion sections will be used for quizzes, **discussion sections will not be podcasted.**
+### Quiz Sessions
 
-### Extra Practice Sessions 
+All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a one hour block on Fridays that you should have reserved for this class. We will use some of this time to administer quizzes. See the [Quizzes](#quizzes) section of the syllabus for more information.
 
-There will be three extra practice sessions, held during the scheduled "Laboratory" sections:
-- Section A: Friday 2-2:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section B: Friday 3-3:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section C: Friday 4-4:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+To provide some additional flexbility, we will ask you for your time preferences among the following options, and you will be assigned a regular quiz time based on your preferences and availability of seats. 
+- Quiz Session 1: Friday 2-2:20PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Quiz Session 2: Friday 2:30-2:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Quiz Session 3: Friday 3-3:20PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Quiz Session 4: Friday 3:30-3:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Quiz Session 5: Friday 4-4:20PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
-The extra practice sessions will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending the extra practice sessions and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
+You can let us know your preferences on the [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9). We will confirm your assigned quiz time by email before Monday of Week 2.
 
-You can attend any extra practice session, but if space fills up, priority will be given to students officially enrolled in that section.
-
-**Extra practice sessions will not be podcasted.** The purpose of these sessions is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
 ### Office Hours
 
