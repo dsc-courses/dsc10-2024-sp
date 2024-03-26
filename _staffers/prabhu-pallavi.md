@@ -7,6 +7,6 @@ photo: assets/staff-images/sp24/prabhu-pallavi.jpg
 description: 3rd year, Data Science, Marshall
 hometown: Cypress, CA
 askabout: Painting, sculpting, baking, TV shows
-foodemoji: 🍛 
+foodemoji: 
 food: 🧇 SomiSomi, Silverlake Ramen
 ---

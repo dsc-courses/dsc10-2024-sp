@@ -7,6 +7,6 @@ photo: assets/staff-images/sp24/xu-cici.jpg
 description: 3rd year, Data Science and Math-Econ, Sixth
 hometown: Shanghai, China
 askabout: Hiking, swimming, food 
-foodemoji: 🍛 
+foodemoji: 
 food: 🍜 Shancheng Lameizi Hot Pot, Phill's BBQ
 ---

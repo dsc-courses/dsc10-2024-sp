@@ -7,6 +7,6 @@ photo: assets/staff-images/sp24/feng-kate.jpg
 description: 1st year, Data Science, Seventh
 hometown: San Jose, CA
 askabout: Content creation, taekwondo, Ghibli movies
-foodemoji: 🍛 
+foodemoji: 
 food: 🥐 La Clochette, Formoosa, YinTang
 ---

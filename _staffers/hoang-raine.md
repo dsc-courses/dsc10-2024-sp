@@ -7,6 +7,6 @@ photo: assets/staff-images/sp24/hoang-raine.jpg
 description: 2nd year, Data Science, Sixth
 hometown: Los Angeles, CA
 askabout: Crochet, video games, art/drawing, wood carving
-foodemoji: 🍛 
+foodemoji: 
 food: 🍜 Ramen Nagi, Tofu House, SomiSomi
 ---
