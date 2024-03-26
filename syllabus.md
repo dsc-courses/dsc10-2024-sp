@@ -62,9 +62,9 @@ You can attend any lecture section, but if space fills up, priority will be give
 ### Discussion 
 
 There are three discussion sections:
-- Section A: Wednesday 2-2:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section B: Wednesday 3-3:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
-- Section C: Wednesday 4-4:50PM in [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section A: Wednesday 2-2:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section B: Wednesday 3-3:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
+- Section C: Wednesday 4-4:50PM in [Center 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/CENTR_Main?sbc/)
 
 Discussion section starts on the first day of class with some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
 
