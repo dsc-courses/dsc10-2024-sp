@@ -133,8 +133,7 @@ Your primary motivation when interacting with course staff should be
 First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
 has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/library-laptop-lending-program/index.html) which may be helpful, but you should also contact
-us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend the extra practice sessions.
-
+us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary for discussion sections.
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
@@ -365,7 +364,7 @@ It is your responsibility to ensure that all assignments are submitted correctly
 
 ## 📝 Assessments
 
-We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [Practice Problems](https://practice.dsc10.com/) to help you prepare. You'll see some of these problems in extra practice sessions and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
+We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [Practice Problems](https://practice.dsc10.com/) to help you prepare. You'll see some of these problems in discussion sections and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
 
 ### Exams
 
