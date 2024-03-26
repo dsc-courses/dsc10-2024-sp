@@ -70,7 +70,7 @@ Discussion section starts on the first day of class with some useful instruction
 
 Most other discussion sections will not be instructive, but instead we will use this time to administer quizzes. See the [Quizzes](#quizzes) section of the syllabus for more information.
 
-You must attend the discussion section that corresponds to the lecture section you are enrolled in. On the [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
+You must attend the discussion section that corresponds to the lecture section you are enrolled in. On the [Welcome Survey](https://forms.gle/Vg48rR7QVy4nZsNw9), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
  
 <!-- {: .warning }
 **In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
