@@ -9,10 +9,10 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Winter 2024 - wi24.csv"
+CSV_PATH = "Lecture Schedule – DSC 10, Spring 2024.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2024
-START_FROM_WEEK = 2 #only future weeks!
+START_FROM_WEEK = 1 #only future weeks!
 
 
 def fill_missing_vals(df):
@@ -28,7 +28,7 @@ def fill_missing_vals(df):
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
     df["Survey"] = df["Survey"].fillna("").astype(str)
-    df["Practice"] = df["Practice"].fillna("").astype(str)
+#    df["Practice"] = df["Practice"].fillna("").astype(str)
     return df
 
 
@@ -115,7 +115,7 @@ def write_week(i, dest="../_modules", write=True):
         discussion = day.Discussion
         quiz = day.Quiz
         survey = day.Survey
-        practice = day.Practice
+        #practice = day.Practice
 
         date_formatted = date_conv(date)
 

@@ -2,28 +2,28 @@
     title: Week 6 – Midterm Exam and the Normal Distribution
     weekNumber: 6
     days:
-      - date: 2024-2-12
+      - date: 2024-5-6
+        events:
+          "**LEC 15**{: .label .label-lecture } Bootstrapping and Confidence Intervals":
+            "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)" 
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval </span></i></small>":
+      - date: 2024-5-7
         events:
           
-          "**EXAM**{: .label .label-exam } **Midterm Exam**":
-          "**DISC**{: .label .label-disc } Exam Solutions Review":
-      - date: 2024-2-14
+          "**PROJ**{: .label .label-proj } **Midterm Project**":
+      - date: 2024-5-8
         events:
-          "**LEC 15**{: .label .label-lecture } [Confidence Intervals, Center, and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
+          "**LEC 16**{: .label .label-lecture } Confidence Intervals, Center, and Spread":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev </span></i></small>":
-      - date: 2024-2-15
+          "**DISC**{: .label .label-disc } 6. Sampling, Bootstrapping, and Confidence Intervals":
+      - date: 2024-5-9
         events:
           
-          "**PROJ**{: .label .label-proj } [**Midterm Project**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=projects/midterm-project/midterm-project.ipynb)":
-      - date: 2024-2-16
+          "**LAB 4**{: .label .label-lab } **Simulation, Sampling, & Bootstrapping**":
+      - date: 2024-5-10
         events:
-          "**LEC 16**{: .label .label-lecture } [Standardization and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
+          "**LEC 17**{: .label .label-lecture } Standardization and the Normal Distribution":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Chebyshev, standard units, normal distribution, CDF, inflection points </span></i></small>":
-          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
-      - date: 2024-2-17
-        events:
-          
-          "**LAB 4**{: .label .label-lab } [**Simulation, Sampling, & Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=labs/lab04/lab04.ipynb)":
 ---
