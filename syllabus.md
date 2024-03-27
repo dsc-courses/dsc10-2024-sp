@@ -388,9 +388,12 @@ There are five quizzes throughout the quarter, administered in the lab section (
 - Quiz 4: Friday, May 24
 - Quiz 5: Friday, May 31
 
-We will count only your three highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores, so each undropped quiz is worth 5%. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
+We will count only your three highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
-You must attend **your assigned discussion section** to take quizzes; see the [Discussion](#discussion) section of the syllabus for details. We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because two quiz scores are dropped.
+We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because two quiz scores are dropped.
+
+
+You must attend **your assigned quiz session**; see the [Quiz Sessions](#quiz-sessions) section of the syllabus for details.
 
 ---
 
@@ -400,7 +403,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lecture | | Lecture and Discussion | | Lecture and Lab Session(for Quiz) | |
+| | Lecture | | Lecture and Discussion | | Lecture and Quiz Session | |
 | | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due</b> (usually) | | |
 
 ---
@@ -587,7 +590,7 @@ From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu):
 If you already have accommodations via OSD, make sure that we receive your
 Authorization for Accommodation (AFA) letter at the start of the quarter so
 that we can make arrangements for accommodations. The Data Science OSD Liaison
-can be reached at dscstudent@ucsd.edu.
+can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu).
 
 ### Diversity and Inclusion
 
