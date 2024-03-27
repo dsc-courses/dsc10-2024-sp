@@ -81,11 +81,12 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSk2FfJ4K_An_CQwcN_Yu5unpJckOZjVQDFqZ78ZTTMmowUsCQKKVnum0_m6TaiGquQ44E3FiS9g2Y4/embed?start=false&loop=false&delayms=3000&rm=minimal&slide=id.gf8f977745a_0_37" frameborder="0" width="711" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8NBJswhPdgN73JKS6a7uK9S5MH0y_qhnhMv1wSusMJXwBcI1CTj2T20zJ5vVH45lVPt06gH1oTr7H/embed?start=false&loop=false&delayms=3000"&rm=minimal" frameborder="0" width="711" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px)></iframe>
 
 <br>
 
-(<a href="https://docs.google.com/presentation/d/1gPIdDBBw_0YYHxmYG7hYRUwnimmlMph4rq-OcDzi838/edit#slide=id.gf8f977745a_0_0">source</a>)
+(<a href="https://docs.google.com/presentation/d/1d3NNWbMx-6oWawPmVHjdclX-ybqy5I8k4mCcqSW-Whw/edit?usp=sharing">source</a>)
 
 </center>
 
