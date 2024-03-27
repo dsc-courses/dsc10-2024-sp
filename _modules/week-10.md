@@ -14,7 +14,7 @@
       - date: 2024-6-5
         events:
           "**LEC 27**{: .label .label-lecture } Review":
-          "**DISC**{: .label .label-disc } 10. Regression":
+          "**DISC 10**{: .label .label-disc } **Regression**":
       - date: 2024-6-6
         events:
           

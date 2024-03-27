@@ -16,7 +16,7 @@
           "**LEC 5**{: .label .label-lecture } Querying and Grouping":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation </span></i></small>":
-          "**DISC**{: .label .label-disc } 2. Arrays and DataFrames":
+          "**DISC 2**{: .label .label-disc } **Arrays and DataFrames**":
       - date: 2024-4-12
         events:
           "**LEC 6**{: .label .label-lecture } Grouping and Data Visualization":

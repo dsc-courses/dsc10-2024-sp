@@ -167,16 +167,17 @@ def write_week(i, dest="../_modules", write=True):
           "**HW {hw_num}**{{: .label .label-hw }} **{hw_name.strip()}**":"""
 
         if discussion:
+            disc_num, disc_name = discussion.split(". ")
             outstr += f"""
-          "**DISC**{{: .label .label-disc }} {discussion.strip()}":"""
+          "**DISC {disc_num}**{{: .label .label-disc }} **{disc_name.strip()}**":"""
             
         if survey:
             outstr += f"""
           "**SUR**{{: .label .label-survey }} {survey.strip()}":"""
             
-        if practice:
-            outstr += f"""
-          "**PRAC**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
+        #if practice:
+        #    outstr += f"""
+        #  "**PRAC**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
             
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)

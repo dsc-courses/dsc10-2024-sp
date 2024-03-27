@@ -9,7 +9,7 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Winter 2024 - wi24.csv"
+CSV_PATH = "Lecture Schedule – DSC 10, Spring 2024.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2024
 START_FROM_WEEK = 1 #only future weeks!
@@ -28,10 +28,12 @@ def fill_missing_vals(df):
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
     df["Survey"] = df["Survey"].fillna("").astype(str)
+#    df["Practice"] = df["Practice"].fillna("").astype(str)
     return df
 
 
 df = pd.read_csv(CSV_PATH).rename(columns={"#": "LectureNum"}).pipe(fill_missing_vals)
+df
 
 
 month_map = {
@@ -113,6 +115,7 @@ def write_week(i, dest="../_modules", write=True):
         discussion = day.Discussion
         quiz = day.Quiz
         survey = day.Survey
+        #practice = day.Practice
 
         date_formatted = date_conv(date)
 
@@ -164,12 +167,17 @@ def write_week(i, dest="../_modules", write=True):
           "**HW {hw_num}**{{: .label .label-hw }} **{hw_name.strip()}**":"""
 
         if discussion:
+            disc_num, disc_name = discussion.split(". ")
             outstr += f"""
-          "**DISC**{{: .label .label-disc }} {discussion.strip()}":"""
+          "**DISC {disc_num}**{{: .label .label-disc }} **{disc_name.strip()}**":"""
             
         if survey:
             outstr += f"""
           "**SUR**{{: .label .label-survey }} {survey.strip()}":"""
+            
+        #if practice:
+        #    outstr += f"""
+        #  "**PRAC**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
             
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
@@ -193,5 +201,7 @@ def write_week(i, dest="../_modules", write=True):
 
 for i in range(START_FROM_WEEK, 11):
     write_week(i)
+
+
 
 

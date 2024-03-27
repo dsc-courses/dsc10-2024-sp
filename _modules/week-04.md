@@ -16,7 +16,7 @@
           "**LEC 11**{: .label .label-lecture } Probability":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
-          "**DISC**{: .label .label-disc } 4. Functions, DataFrames, and Control Flow":
+          "**DISC 4**{: .label .label-disc } **Functions, DataFrames, and Control Flow**":
       - date: 2024-4-25
         events:
           

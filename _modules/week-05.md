@@ -14,7 +14,7 @@
       - date: 2024-5-1
         events:
           "**LEC 14**{: .label .label-lecture } Midterm Review":
-          "**DISC**{: .label .label-disc } 5. Probability and Simulation":
+          "**DISC 5**{: .label .label-disc } **Probability and Simulation**":
       - date: 2024-5-3
         events:
           

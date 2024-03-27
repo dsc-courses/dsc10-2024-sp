@@ -16,7 +16,7 @@
           "**LEC 22**{: .label .label-lecture } TVD, Hypothesis Testing, and Permutation Testing":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> confidence intervals for hypothesis testing, body temperature, smoking/babies </span></i></small>":
-          "**DISC**{: .label .label-disc } 8. The Central Limit Theorem and Hypothesis Testing":
+          "**DISC 8**{: .label .label-disc } **The Central Limit Theorem and Hypothesis Testing**":
       - date: 2024-5-23
         events:
           
