@@ -143,7 +143,7 @@ additional platforms that you'll need to access:
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope](https://www.gradescope.com/courses/757097). This is where all of
-  your grades will live as well. If you didn’t already get an invitation to our Gradescope course, reach out to the instructional staff on Ed.
+  your grades will live as well. You will be automatically added to Gradescope within 24 hours of enrolling in the course.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
