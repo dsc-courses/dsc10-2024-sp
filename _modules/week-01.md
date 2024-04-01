@@ -13,7 +13,7 @@
           "**LEC 2**{: .label .label-lecture } Expressions and Data Types":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Jupyter notebooks, expressions, variables, assignment, functions, int, float </span></i></small>":
-          "**DISC 1**{: .label .label-disc } **Getting Started with Jupyter Notebooks**":
+          "**DISC 1**{: .label .label-disc } **[Getting Started with Jupyter Notebooks](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=discussion/disc01/disc01.ipynb)**":
       - date: 2024-4-5
         events:
           "**LEC 3**{: .label .label-lecture } Strings, Lists, and Arrays":
