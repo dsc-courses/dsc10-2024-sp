@@ -16,7 +16,7 @@
           "**DISC 1**{: .label .label-disc } **[Getting Started with Jupyter Notebooks](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=discussion/disc01/disc01.ipynb)**":
       - date: 2024-4-5
         events:
-          "**LEC 3**{: .label .label-lecture } Strings, Lists, and Arrays":
+          "**LEC 3**{: .label .label-lecture } [Strings, Lists, and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec03/lec03.ipynb) [✏️](resources/lectures/lec03/lec03.html)":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html), [CIT 14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> string methods, mean, median, lists, arrays, array arithmetic </span></i></small>":
       - date: 2024-4-6
