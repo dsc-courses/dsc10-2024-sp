@@ -10,7 +10,7 @@
       - date: 2024-4-9
         events:
           
-          "**LAB 1**{: .label .label-lab } **Arrays and DataFrames**":
+          "**LAB 1**{: .label .label-lab } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab01/lab01.ipynb)**":
       - date: 2024-4-10
         events:
           "**LEC 5**{: .label .label-lecture } Querying and Grouping":
