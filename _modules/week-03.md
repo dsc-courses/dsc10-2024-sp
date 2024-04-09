@@ -10,7 +10,7 @@
       - date: 2024-4-16
         events:
           
-          "**HW 1**{: .label .label-hw } **Basic Python, Arrays, and DataFrames**":
+          "**HW 1**{: .label .label-hw } **[Basic Python, Arrays, and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw01/hw01.ipynb)**":
       - date: 2024-4-17
         events:
           "**LEC 8**{: .label .label-lecture } Functions and Applying":
