@@ -6,7 +6,7 @@ email:
 photo: assets/staff-images/sp24/hong-michelle.jpg
 description: 1st year, Data Science, Seventh
 hometown: Dublin, CA
-askabout: Bass guitar, matcha, thrifting, track
+askabout: Bass guitar, thrifting, track & field
 foodemoji: 
-food: 🐠 Hawaiiian Fresh Poke, Pinkberry
+food: 🐠 Hawaiian Fresh Seafood, Pinkberry
 ---

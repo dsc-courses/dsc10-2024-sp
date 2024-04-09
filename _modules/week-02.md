@@ -4,13 +4,13 @@
     days:
       - date: 2024-4-8
         events:
-          "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
+          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec04/lec04.ipynb) [✏️](resources/lectures/lec04/lec04.html)":
             "[BPD 9](https://notes.dsc10.com/02-data_sets/accessing.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index </span></i></small>":
       - date: 2024-4-9
         events:
           
-          "**LAB 1**{: .label .label-lab } **Arrays and DataFrames**":
+          "**LAB 1**{: .label .label-lab } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab01/lab01.ipynb)**":
       - date: 2024-4-10
         events:
           "**LEC 5**{: .label .label-lecture } Querying and Grouping":
