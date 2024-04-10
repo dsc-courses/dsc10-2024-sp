@@ -13,7 +13,7 @@
           "**LAB 1**{: .label .label-lab } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab01/lab01.ipynb)**":
       - date: 2024-4-10
         events:
-          "**LEC 5**{: .label .label-lecture } Querying and Grouping":
+          "**LEC 5**{: .label .label-lecture } [Querying and Grouping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec05/lec05.ipynb) [✏️](resources/lectures/lec05/lec05.html)":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation </span></i></small>":
           "**DISC 2**{: .label .label-disc } **[Arrays and DataFrames](https://practice.dsc10.com/disc02/index.html)**":
