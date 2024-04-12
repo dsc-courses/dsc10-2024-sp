@@ -20,7 +20,7 @@
       - date: 2024-4-18
         events:
           
-          "**LAB 2**{: .label .label-lab } **Data Visualizations and Functions**":
+          "**LAB 2**{: .label .label-lab } **[Data Visualizations and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab02/lab02.ipynb)****":
       - date: 2024-4-19
         events:
           "**LEC 9**{: .label .label-lecture } Grouping on Multiple Columns, Merging":
