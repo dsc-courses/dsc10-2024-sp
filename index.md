@@ -28,7 +28,7 @@ nav_order: 1
 {: .success }
 Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the [Welcome Survey](https://forms.gle/4j7t87VWsaJCYbnn8) and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
 
-[Jump to the current week](#week-2-dataframes){: .btn }
+[Jump to the current week](#week-3-data-visualization-and-functions){: .btn }
 
 
 {% for module in site.modules %}
