@@ -16,7 +16,7 @@
           "**LEC 8**{: .label .label-lecture } Functions and Applying":
             "[BPD 6](https://notes.dsc10.com/01-getting_started/functions-defining.html#example), [12](https://notes.dsc10.com/02-data_sets/apply.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> functions, arguments, print vs. return, .apply, .reset_index </span></i></small>":
-          "**DISC 3**{: .label .label-disc } **Querying, Grouping, and Plotting**":
+          "**DISC 3**{: .label .label-disc } **[Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)**":
       - date: 2024-4-18
         events:
           
