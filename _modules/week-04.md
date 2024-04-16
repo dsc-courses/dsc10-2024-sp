@@ -10,7 +10,7 @@
       - date: 2024-4-23
         events:
           
-          "**HW 2**{: .label .label-hw } **DataFrames, Data Visualization, and Functions**":
+          "**HW 2**{: .label .label-hw } **[DataFrames, Data Visualization, and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw02/hw02.ipynb)**":
       - date: 2024-4-24
         events:
           "**LEC 11**{: .label .label-lecture } Probability":
