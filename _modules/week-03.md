@@ -23,7 +23,7 @@
           "**LAB 2**{: .label .label-lab } **[Data Visualizations and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab02/lab02.ipynb)**":
       - date: 2024-4-19
         events:
-          "**LEC 9**{: .label .label-lecture } Grouping on Multiple Columns, Merging":
+          "**LEC 9**{: .label .label-lecture } [Grouping on Multiple Columns, Merging](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
             "[BPD 11](https://notes.dsc10.com/02-data_sets/groupby.html), [13](https://notes.dsc10.com/02-data_sets/merging.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .groupby([col_1, col_2, …]), subgroups, MultiIndex, .merge, number of rows </span></i></small>":
 ---
