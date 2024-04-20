@@ -20,7 +20,7 @@
       - date: 2024-4-25
         events:
           
-          "**LAB 3**{: .label .label-lab } [DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab03/lab03.ipynb)":
+          "**LAB 3**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab03/lab03.ipynb)**":
           "**SUR**{: .label .label-survey } Mid-Quarter Survey":
       - date: 2024-4-26
         events:
