@@ -18,10 +18,8 @@
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
           "**DISC 4**{: .label .label-disc } **Functions, DataFrames, and Control Flow**":
       - date: 2024-4-25
-        events:
-          
+        events:       
           "**LAB 3**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab03/lab03.ipynb)**":
-          "**SUR**{: .label .label-survey } Mid-Quarter Survey":
       - date: 2024-4-26
         events:
           "**LEC 12**{: .label .label-lecture } Simulation":
