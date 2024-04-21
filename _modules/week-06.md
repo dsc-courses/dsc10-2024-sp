@@ -10,7 +10,7 @@
       - date: 2024-5-7
         events:
           
-          "**PROJ**{: .label .label-proj } **Midterm Project**":
+          "**PROJ**{: .label .label-proj } **[Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=projects/midterm_project/midterm_project.ipynb)**":
       - date: 2024-5-8
         events:
           "**LEC 16**{: .label .label-lecture } Confidence Intervals, Center, and Spread":
