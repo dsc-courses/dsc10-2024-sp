@@ -4,7 +4,7 @@
     days:
       - date: 2024-4-22
         events:
-          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec10/lec10.ipynb) 
+          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html)":
             "[CIT 9.0-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> in, not, and, or, if, else, elif, for-loops, np.append, accumulator pattern </span></i></small>":
       - date: 2024-4-23
