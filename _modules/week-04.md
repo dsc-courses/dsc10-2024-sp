@@ -16,7 +16,7 @@
           "**LEC 11**{: .label .label-lecture } Probability":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
-          "**DISC 4**{: .label .label-disc } **Functions, DataFrames, and Control Flow**":
+          "**DISC 4**{: .label .label-disc } **[Functions, DataFrames, and Control Flow](https://practice.dsc10.com/disc04/index.html)**":
       - date: 2024-4-25
         events:       
           "**LAB 3**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab03/lab03.ipynb)**":
