@@ -9,7 +9,7 @@
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> probability vs. empirical distribution, SRS, .sample, parameter, statistic </span></i></small>":
       - date: 2024-4-30
         events:          
-          "**HW 3**{: .label .label-hw } **DataFrames, Control Flow, and Probability**":
+          "**HW 3**{: .label .label-hw } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw03/hw03.ipynb)**":
           "**SUR**{: .label .label-survey } [Mid-Quarter Survey](https://forms.gle/nN6kvMyGn2QkPKHC8)":
       - date: 2024-5-1
         events:
