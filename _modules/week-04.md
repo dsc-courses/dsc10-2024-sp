@@ -22,7 +22,7 @@
           "**LAB 3**{: .label .label-lab } **[DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab03/lab03.ipynb)**":
       - date: 2024-4-26
         events:
-          "**LEC 12**{: .label .label-lecture } Simulation":
+          "**LEC 12**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec12/lec12.ipynb) [✏️](resources/lectures/lec12/lec12.html)":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall </span></i></small>":
           "**QUIZ 2**{: .label .label-quiz } Quiz 2 covers Lectures 5-9":
