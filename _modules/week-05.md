@@ -4,7 +4,7 @@
     days:
       - date: 2024-4-29
         events:
-          "**LEC 13**{: .label .label-lecture } Distributions and Sampling":
+          "**LEC 13**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec13/lec13.ipynb) [✏️](resources/lectures/lec13/lec13.html)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> probability vs. empirical distribution, SRS, .sample, parameter, statistic </span></i></small>":
       - date: 2024-4-30
