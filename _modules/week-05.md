@@ -13,7 +13,7 @@
           "**SUR**{: .label .label-survey } [Mid-Quarter Survey](https://forms.gle/nN6kvMyGn2QkPKHC8)":
       - date: 2024-5-1
         events:
-          "**LEC 14**{: .label .label-lecture } [Midterm Review](resources/lectures/lec14/lec14.pdf)":
+          "**LEC 14**{: .label .label-lecture } [Midterm Review](resources/lectures/lec14/lec14.pdf) • [9am](resources/lectures/lec14/lec14_9am.pdf), [10am](resources/lectures/lec14/lec14_10am.pdf), [11am](resources/lectures/lec14/lec14_11am.pdf)":
           "**DISC 5**{: .label .label-disc } **[Probability and Simulation](https://practice.dsc10.com/disc05/index.html)**":
       - date: 2024-5-3
         events:
