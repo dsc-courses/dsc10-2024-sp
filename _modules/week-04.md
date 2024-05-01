@@ -13,7 +13,7 @@
           "**HW 2**{: .label .label-hw } **[DataFrames, Data Visualization, and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw02/hw02.ipynb)**":
       - date: 2024-4-24
         events:
-          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec11/lec11.ipynb) • [blank](resources/lectures/lec11/lec11.pdf), [9am](resources/lectures/lec11/lec11_9am.pdf), [10am](resources/lectures/lec11/lec11_10am.pdf), [11am](resources/lectures/lec11/lec11_11am.pdf),":
+          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec11/lec11.ipynb) • [blank](resources/lectures/lec11/lec11.pdf), [9am](resources/lectures/lec11/lec11_9am.pdf), [10am](resources/lectures/lec11/lec11_10am.pdf), [11am](resources/lectures/lec11/lec11_11am.pdf)":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
           "**DISC 4**{: .label .label-disc } **[Functions, DataFrames, and Control Flow](https://practice.dsc10.com/disc04/index.html)**":
