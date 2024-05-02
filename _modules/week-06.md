@@ -20,7 +20,7 @@
       - date: 2024-5-9
         events:
           
-          "**LAB 4**{: .label .label-lab } **Simulation, Sampling, & Bootstrapping**":
+          "**LAB 4**{: .label .label-lab } **[Simulation, Sampling, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab04/lab04.ipynb)**":
       - date: 2024-5-10
         events:
           "**LEC 17**{: .label .label-lecture } Standardization and the Normal Distribution":
