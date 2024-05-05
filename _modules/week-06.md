@@ -4,7 +4,7 @@
     days:
       - date: 2024-5-6
         events:
-          "**LEC 15**{: .label .label-lecture } Bootstrapping and Confidence Intervals":
+          "**LEC 15**{: .label .label-lecture } [Bootstrapping and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval </span></i></small>":
       - date: 2024-5-7
