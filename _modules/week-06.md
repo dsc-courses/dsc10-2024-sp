@@ -1,5 +1,5 @@
 ---
-    title: Week 6 – Midterm Exam and the Normal Distribution
+    title: Week 6 – Bootstrapping and the Normal Distribution
     weekNumber: 6
     days:
       - date: 2024-5-6
