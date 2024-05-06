@@ -12,7 +12,7 @@
           "**LEC 16**{: .label .label-lecture } Confidence Intervals, Center, and Spread":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev </span></i></small>":
-          "**DISC 6**{: .label .label-disc } **Sampling, Bootstrapping, and Confidence Intervals**":        
+          "**DISC 6**{: .label .label-disc } **[Sampling, Bootstrapping, and Confidence Intervals](https://practice.dsc10.com/disc06/index.html)**":	  
           "**PROJ**{: .label .label-proj } **[Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=projects/midterm_project/midterm_project.ipynb)**":
       - date: 2024-5-9
         events:
