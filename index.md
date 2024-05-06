@@ -15,7 +15,7 @@ nav_order: 1
 
 
 {: .warning }
-**Important:** Instruction is currently remote, as required by campus. Do not come to campus today! Instead, I am posting a recording of Lecture 15, and will be available on Zoom from 11am to 12pm today for you to ask any questions about the lecture. All office hours for Monday and Tuesday will be remote as well. Click the button below to join DSC 10 remote meetings and office hours.
+**Important:** Instruction is currently remote, as required by campus. Do not come to campus today! Instead, I am posting a [recording of Monday's lecture](https://podcast.ucsd.edu/watch/wi24/dsc10_c00/14), and I will be available on Zoom from 11am to 12pm today for you to ask any questions about the lecture. All office hours for Monday and Tuesday will be remote as well. Click the button below to join DSC 10 remote meetings and office hours.
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 
