@@ -7,7 +7,9 @@ nav_order: 3
 
 # 📆 Calendar
 
-**Important: Office hours are moved to remote for Monday and Tuesday. Click the button below to join remote office hours through Zoom.**
+**Important: Office hours are moved to remote for Monday and Tuesday.**
+
+**Click the button below to join remote office hours through Zoom.**
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 
