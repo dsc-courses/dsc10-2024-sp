@@ -14,8 +14,14 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-{: .success }
-**Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the ✏️ emoji to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)!**
+{: .warning }
+**Important: Instruction is currently remote, as required by campus. Do not come to campus today. Instead, I am posting a recording of Lecture 15, and will be available on Zoom from 11am to 12pm today for you to ask any questions about the lecture. All office hours for Monday and Tuesday will be remote as well. We will use this [Zoom link](https://ucsd.zoom.us/j/93021261693) for all DSC 10 remote meetings and office hours. **
+
+[Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
+
+
+<!--{: .success }
+**Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the ✏️ emoji to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)!**-->
 
 
 <!--
@@ -30,7 +36,7 @@ nav_order: 1
 Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the [Welcome Survey](https://forms.gle/4j7t87VWsaJCYbnn8) and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
 -->
 
-[Jump to the current week](#week-5-simulation-sampling-and-confidence-intervals){: .btn }
+[Jump to the current week](#week-6-bootstrapping-and-the-normal-distribution){: .btn }
 
 
 {% for module in site.modules %}
