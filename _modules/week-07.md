@@ -10,7 +10,7 @@
       - date: 2024-5-14
         events:
           
-          "**HW 4**{: .label .label-hw } **Simulation, Sampling, Bootstrapping**":
+          "**HW 4**{: .label .label-hw } **[Simulation, Sampling, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw04/hw04.ipynb)**":
       - date: 2024-5-15
         events:
           "**LEC 19**{: .label .label-lecture } Choosing Sample Sizes, Statistical Models":
