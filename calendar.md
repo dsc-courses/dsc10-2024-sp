@@ -7,9 +7,7 @@ nav_order: 3
 
 # 📆 Calendar
 
-**Important: Office hours are moved to remote for Monday and Tuesday.**
-
-**Click the button below to join remote office hours through Zoom.**
+**Note:** Tutors holding office hours on Tuesday will decide individually whether they will hold them remotely on Zoom or in the usual office hours room, HDSI 155. Check the pinned post on Ed for the latest information.
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 

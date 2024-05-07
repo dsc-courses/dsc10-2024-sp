@@ -14,8 +14,8 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-{: .warning }
-**Important:** Instruction is currently remote, as required by campus. Do not come to campus today! Instead, I am posting a [recording of Monday's lecture](https://podcast.ucsd.edu/watch/wi24/dsc10_c00/14), and I will be available on Zoom from 11am to 12pm today for you to ask any questions about the lecture. All office hours for Monday and Tuesday will be remote as well. Click the button below to join DSC 10 remote meetings and office hours.
+{: .success }
+**Note:** Tutors holding office hours on Tuesday will decide individually whether they will hold them remotely on Zoom or in the usual office hours room, HDSI 155. Check the pinned post on Ed for the latest information.
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 
