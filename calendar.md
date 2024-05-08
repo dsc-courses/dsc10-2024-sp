@@ -7,7 +7,7 @@ nav_order: 3
 
 # 📆 Calendar
 
-We're back to in-person office hours in HDSI 155, except Ashley will host her Wednesday office hours on Zoom. 
+We're back to in-person office hours in HDSI 155, except Wednesday evening office hours with Athulith and Ashley will be on Zoom. 
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 
