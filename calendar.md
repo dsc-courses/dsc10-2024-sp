@@ -7,7 +7,7 @@ nav_order: 3
 
 # 📆 Calendar
 
-**Note:** Tutors holding office hours on Tuesday will decide individually whether they will hold them remotely on Zoom or in the usual office hours room, HDSI 155. Check the pinned post on Ed for the latest information.
+We're back to in-person office hours in HDSI 155, except Ashley will host her Wednesday office hours on Zoom. 
 
 [Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
 

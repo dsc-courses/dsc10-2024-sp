@@ -9,7 +9,7 @@
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval </span></i></small>":
       - date: 2024-5-8
         events:
-          "**LEC 16**{: .label .label-lecture } Confidence Intervals, Center, and Spread":
+          "**LEC 16**{: .label .label-lecture } [Confidence Intervals, Center, and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec16/lec16.ipynb)":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev </span></i></small>":
           "**DISC 6**{: .label .label-disc } **[Sampling, Bootstrapping, and Confidence Intervals](https://practice.dsc10.com/disc06/index.html)**":	  

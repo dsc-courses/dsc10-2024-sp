@@ -15,9 +15,7 @@ nav_order: 1
 
 
 {: .success }
-**Note:** Tutors holding office hours on Tuesday will decide individually whether they will hold them remotely on Zoom or in the usual office hours room, HDSI 155. Check the pinned post on Ed for the latest information.
-
-[Zoom link](https://ucsd.zoom.us/j/93021261693){: .btn }
+We're back to in-person instruction as of Wednesday. Note that Wednesday's lecture follows directly from Monday's, so make sure to [watch the recording](https://podcast.ucsd.edu/watch/wi24/dsc10_c00/14) from Monday in advance.
 
 
 <!--{: .success }
