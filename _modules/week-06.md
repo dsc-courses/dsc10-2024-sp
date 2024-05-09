@@ -20,7 +20,7 @@
           "**LAB 4**{: .label .label-lab } **[Simulation, Sampling, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab04/lab04.ipynb)**":
       - date: 2024-5-10
         events:
-          "**LEC 17**{: .label .label-lecture } Standardization and the Normal Distribution":
+          "**LEC 17**{: .label .label-lecture } [Standardization and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html)":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Chebyshev, standard units, normal distribution, CDF, inflection points </span></i></small>":
 ---
