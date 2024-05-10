@@ -14,9 +14,6 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-{: .success }
-We're back to in-person instruction as of Wednesday. Note that Wednesday's lecture follows directly from Monday's, so make sure to [watch the recording](https://podcast.ucsd.edu/watch/wi24/dsc10_c00/14) from Monday in advance.
-
 
 <!--{: .success }
 **Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the ✏️ emoji to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)!**-->
