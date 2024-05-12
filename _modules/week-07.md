@@ -4,7 +4,7 @@
     days:
       - date: 2024-5-13
         events:
-          "**LEC 18**{: .label .label-lecture } The Central Limit Theorem":
+          "**LEC 18**{: .label .label-lecture } [The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distribution of the sample mean, square root law, CLT-based CIs </span></i></small>":
       - date: 2024-5-14
