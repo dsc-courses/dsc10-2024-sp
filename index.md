@@ -31,7 +31,7 @@ nav_order: 1
 Welcome to DSC 10! To start, read the [syllabus](https://dsc10.com/syllabus) carefully, paying special attention to the ["Getting Started"](https://dsc10.com/syllabus/#-getting-started) section. Make sure to complete the [Welcome Survey](https://forms.gle/4j7t87VWsaJCYbnn8) and [Pretest](https://practice.dsc10.com/pretest/) to get off to a good start!
 -->
 
-[Jump to the current week](#week-6-bootstrapping-and-the-normal-distribution){: .btn }
+[Jump to the current week](#week-7-central-limit-theorem){: .btn }
 
 
 {% for module in site.modules %}
