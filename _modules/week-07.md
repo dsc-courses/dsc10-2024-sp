@@ -12,7 +12,7 @@
           "**HW 4**{: .label .label-hw } **[Simulation, Sampling, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw04/hw04.ipynb)**":
       - date: 2024-5-15
         events:
-          "**LEC 19**{: .label .label-lecture } Choosing Sample Sizes, Statistical Models":
+          "**LEC 19**{: .label .label-lecture } [Choosing Sample Sizes, Statistical Models](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec19/lec19.ipynb) [✏️](resources/lectures/lec19/lec19.html)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html), [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury </span></i></small>":
           "**DISC 7**{: .label .label-disc } **[Standardization and the Normal Distribution](https://practice.dsc10.com/disc07/index.html)**":
