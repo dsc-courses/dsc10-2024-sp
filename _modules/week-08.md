@@ -20,7 +20,7 @@
       - date: 2024-5-23
         events:
           
-          "**LAB 6**{: .label .label-lab } **Hypothesis Testing**":
+          "**LAB 6**{: .label .label-lab } **[Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab06/lab06.ipynb)**":
       - date: 2024-5-24
         events:
           "**LEC 23**{: .label .label-lecture } Permutation Testing":
