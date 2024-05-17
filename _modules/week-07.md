@@ -21,7 +21,7 @@
           "**LAB 5**{: .label .label-lab } **[Variability and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab05/lab05.ipynb)**":
       - date: 2024-5-17
         events:
-          "**LEC 20**{: .label .label-lecture } Hypothesis Testing":
+          "**LEC 20**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
             "[CIT 11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> null and alternative hypotheses, test statistic, fair or unfair coin </span></i></small>":
           "**QUIZ 3**{: .label .label-quiz } Quiz 3 covers Lectures 13, 15, 16":
