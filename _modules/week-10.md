@@ -10,7 +10,7 @@
       - date: 2024-6-4
         events:
           
-          "**PROJ**{: .label .label-proj } **Final Project**":
+          "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=projects/final_project/FinalProject.ipynb)**":
       - date: 2024-6-5
         events:
           "**LEC 27**{: .label .label-lecture } Review":
