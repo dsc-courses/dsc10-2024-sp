@@ -4,7 +4,7 @@
     days:
       - date: 2024-5-20
         events:
-          "**LEC 21**{: .label .label-lecture } Hypothesis Testing and Total Variation Distance":
+          "**LEC 21**{: .label .label-lecture } [Hypothesis Testing and Total Variation Distance](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec21/lec21.ipynb) [✏️](resources/lectures/lec21/lec21.html)":
             "[CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD </span></i></small>":
       - date: 2024-5-21
