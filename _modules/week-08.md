@@ -13,7 +13,7 @@
           "**HW 5**{: .label .label-hw } **[The Normal Distribution and the Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw05/hw05.ipynb)**":
       - date: 2024-5-22
         events:
-          "**LEC 22**{: .label .label-lecture } TVD, Hypothesis Testing, and Permutation Testing":
+          "**LEC 22**{: .label .label-lecture } [TVD, Hypothesis Testing, and Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> confidence intervals for hypothesis testing, body temperature, smoking/babies </span></i></small>":
           "**DISC 8**{: .label .label-disc } **[The Central Limit Theorem and Hypothesis Testing](https://practice.dsc10.com/disc08/index.html)**":
