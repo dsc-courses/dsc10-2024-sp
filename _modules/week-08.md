@@ -23,7 +23,7 @@
           "**LAB 6**{: .label .label-lab } **[Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab06/lab06.ipynb)**":
       - date: 2024-5-24
         events:
-          "**LEC 23**{: .label .label-lecture } Permutation Testing":
+          "**LEC 23**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> smoking/babies, np.random.permutation, shuffling, Deflategate </span></i></small>":
           "**QUIZ 4**{: .label .label-quiz } Quiz 4 covers Lectures 17-19":
