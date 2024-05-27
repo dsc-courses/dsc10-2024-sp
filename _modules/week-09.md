@@ -15,7 +15,7 @@
           "**LEC 24**{: .label .label-lecture } Correlation":
             "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> association, correlation coefficient (r), predicting heights, regression line (su) </span></i></small>":
-          "**DISC 9**{: .label .label-disc } **Total Variation Distance and Permutation Testing**":
+          "**DISC 9**{: .label .label-disc } **[Total Variation Distance and Permutation Testing](https://practice.dsc10.com/disc09/index.html)**":
       - date: 2024-5-31
         events:
           "**LEC 25**{: .label .label-lecture } Regression and Least Squares":
