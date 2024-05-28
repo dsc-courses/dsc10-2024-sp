@@ -12,7 +12,7 @@
           "**HW 6**{: .label .label-hw } **[Hypothesis Testing and Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=homeworks/hw06/hw06.ipynb)**":
       - date: 2024-5-29
         events:
-          "**LEC 24**{: .label .label-lecture } Correlation":
+          "**LEC 24**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)":
             "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> association, correlation coefficient (r), predicting heights, regression line (su) </span></i></small>":
           "**DISC 9**{: .label .label-disc } **[Total Variation Distance and Permutation Testing](https://practice.dsc10.com/disc09/index.html)**":
