@@ -18,7 +18,7 @@
           "**DISC 9**{: .label .label-disc } **[Total Variation Distance and Permutation Testing](https://practice.dsc10.com/disc09/index.html)**":
       - date: 2024-5-31
         events:
-          "**LEC 25**{: .label .label-lecture } Regression and Least Squares":
+          "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> regression line in original units, outliers, errors, RMSE, best fit, least squares </span></i></small>":
           "**QUIZ 5**{: .label .label-quiz } Quiz 5 covers Lectures 20-23":
