@@ -18,7 +18,7 @@
       - date: 2024-6-6
         events:
           
-          "**LAB 7**{: .label .label-lab } **Regression**":
+          "**LAB 7**{: .label .label-lab } **[Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab07/lab07.ipynb)**":
       - date: 2024-6-7
         events:
           "**LEC 28**{: .label .label-lecture } Review, Conclusion":
