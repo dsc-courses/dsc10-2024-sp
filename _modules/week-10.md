@@ -25,6 +25,6 @@
       - date: 2024-6-8
         events:
           
-          "**EXAM**{: .label .label-exam } **Final Exam (7-10PM)**":
-          "**SUR**{: .label .label-survey } SETs and End-of-Quarter Survey (due 8AM)":
+          "**EXAM**{: .label .label-exam } **Final Exam (7-10PM) in Solis 104/107**":
+          "**SUR**{: .label .label-survey } [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and [End-of-Quarter Survey](https://forms.gle/zT7zUt7nErwzMAUGA) (due 8AM)":
 ---
