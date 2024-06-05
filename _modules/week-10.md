@@ -13,7 +13,7 @@
           "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=projects/final_project/FinalProject.ipynb)**":
       - date: 2024-6-5
         events:
-          "**LEC 27**{: .label .label-lecture } [Review](resources/lectures/lec27/lec27.pdf) <!--• [9am](resources/lectures/lec27/lec27_9am.pdf), [10am](resources/lectures/lec27/lec27_10am.pdf), [11am](resources/lectures/lec27/lec27_11am.pdf)-->":
+          "**LEC 27**{: .label .label-lecture } [Review](resources/lectures/lec27/lec27.pdf) • [9am](resources/lectures/lec27/lec27_9am.pdf), [10am](resources/lectures/lec27/lec27_10am.pdf), [11am](resources/lectures/lec27/lec27_11am.pdf)":
           "**DISC 10**{: .label .label-disc } **[Regression](https://practice.dsc10.com/disc10/index.html)**":
       - date: 2024-6-6
         events:
