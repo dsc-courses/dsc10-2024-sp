@@ -13,8 +13,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .warning }
-**Important**: 9AM and 10AM lectures are canceled today. Please come to the 11AM lecture instead or [watch this recording](https://podcast.ucsd.edu/watch/wi24/dsc10_a00/26). I have a sore throat and can't talk for three hours today. Thanks for understanding!
+<!--{: .warning }
+**Important**: 9AM and 10AM lectures are canceled today. Please come to the 11AM lecture instead or [watch this recording](https://podcast.ucsd.edu/watch/wi24/dsc10_a00/26). I have a sore throat and can't talk for three hours today. Thanks for understanding!-->
 
 {: .success }
 >The Final Exam is **this Saturday, June 8th from 7-10PM** in Solis 104 and Solis 107. You will be assigned a seat in one of these rooms.  
