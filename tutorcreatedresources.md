@@ -9,6 +9,8 @@ parent: 📚 Resources
 # {{ page. title }}
 {:.no_toc}
 
+🚨This page is under construction!🚨
+
 The interactive diagrams below are taken from lecture. Click on a diagram to "activate" it, then either click through it or use your arrow keys to navigate. If you'd like to see the diagram directly in Google Slides, click the "source" link.
 
 ## Table of contents
