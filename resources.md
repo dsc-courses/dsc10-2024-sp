@@ -17,6 +17,10 @@ nav_order: 4
 
 ## Supplemental Resources
 
+### Tutor-Created Resources
+
+DSC 10 tutors have created course related content, like the one below, that may be useful if you need some extra help. Check out the [Tutor Created Resources] page to check them out!
+
 ### Diagrams
 
 We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a separate [**Diagrams**](../diagrams) page. Check it out!
