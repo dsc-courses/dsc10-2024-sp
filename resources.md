@@ -19,7 +19,7 @@ nav_order: 4
 
 ### Tutor-Created Resources
 
-DSC 10 tutors have created course related content, like the one below, that may be useful if you need some extra help. Check out the [Tutor Created Resources] page to check them out!
+DSC 10 tutors have created course related content, like the one below, that may be useful if you need some extra help. Check out the [**Tutor-Created Resources**](../tutorcreatedresources) page to check them out!
 
 ### Diagrams
 
