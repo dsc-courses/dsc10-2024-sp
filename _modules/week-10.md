@@ -21,7 +21,7 @@
           "**LAB 7**{: .label .label-lab } **[Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=labs/lab07/lab07.ipynb)**":
       - date: 2024-6-7
         events:
-          "**LEC 28**{: .label .label-lecture } Review, Conclusion":
+          "**LEC 28**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-sp&subPath=lectures/lec28/lec28.ipynb) [✏️](resources/lectures/lec28/lec28.html) - [Blank](resources/lectures/lec28/lec28.pdf) - Annotated 9AM, 10AM, 11AM":
       - date: 2024-6-8
         events:
           
