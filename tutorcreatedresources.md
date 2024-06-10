@@ -50,6 +50,29 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 </center>
 
+#### Number of Rows After a Merge by Jason Huynh
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9hXm3bSVx0?si=tJlDsVuBJVlNlHjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=n9hXm3bSVx0&ab_channel=JasonHuynh">source</a>)
+
+</center>
+
+#### DSC 10 Data Structures by Minchan Kim
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJ1f5EB4mfI?si=eWCyT8tLabMKP5hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=eJ1f5EB4mfI&ab_channel=MinchanKim">source</a>)
+
+</center>
+
 <hr>
 
 ### Strings, Series, and Arrays
