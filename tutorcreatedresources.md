@@ -25,7 +25,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsZzqPaQRO1AEdfbAqXyfIDBvma-eLkNNIHA3Go3LJ86I40d569PuoEZq5oTB2Ug/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsZzqPaQRO1AEdfbAqXyfIDBvma-eLkNNIHA3Go3LJ86I40d569PuoEZq5oTB2Ug/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
@@ -35,17 +35,17 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 <hr>
 
-### Grouping
+### Probability
+
+#### Probability Cheat Sheet by Suhani Sharma
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgVlFngQcLMYHP-z1vq5lVXjsBgcHebc-3TX7SW6L_gjX6TD1gsflvVDQUpWiDdeEPqJASenUIfBVd/embed?start=false&loop=false&delayms=3000&rm=minimal&slide=id.g2185933e14b_0_49" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" 
-style="clip-path: inset(1.5px 2.5px 2.5px 5px);"
-></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9snLGLKZTx8x-x78JR1zchz98l9JryKgVpWBAimLqOTuRWN3bxNK432HgIQ0wGw1RnsJAiz1ESzIC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="384" height="557" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
-(<a href="https://docs.google.com/presentation/d/1XZ-nuM5XMFR5WgqZ2rt3mn9gDCPfB8ESu07okHKchqw/edit?usp=share_link">source</a>)
+(<a href="https://drive.google.com/file/d/1tlCLK9sVG5YgVyDTy5lBhnye1CEDFx-8/view?usp=sharing">source</a>)
 
 </center>
 
