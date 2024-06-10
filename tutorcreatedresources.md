@@ -21,7 +21,11 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 ### Dataframes
 
-#### Query Examples by Keenan Serrano
+#### Dataframe Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
+
+<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658?pvs=4"></a>
+
+#### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
 
 <center>
 
@@ -30,6 +34,18 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 <br>
 
 (<a href="https://docs.google.com/presentation/d/1Z64-ytAXACj0MfvyLd7CiXqXrbMTCmOy/edit?usp=sharing&ouid=112628386230123957206&rtpof=true&sd=true">source</a>)
+
+</center>
+
+#### DSC10 🐼 .groupby() by Kate Feng
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j6OI9zdAzNc?si=FZfL6rDTjXTre-WR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=j6OI9zdAzNc&ab_channel=KateFeng">source</a>)
 
 </center>
 
