@@ -50,6 +50,18 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 </center>
 
+#### When should we use .groupby? by Zoe Ludena
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e566pofJZqs?si=Hqo745DbQuVZBngV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://youtu.be/e566pofJZqs">source</a>)
+
+</center>
+
 #### Number of Rows After a Merge by Jason Huynh
 
 <center>
@@ -59,6 +71,20 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 <br>
 
 (<a href="https://www.youtube.com/watch?v=n9hXm3bSVx0&ab_channel=JasonHuynh">source</a>)
+
+</center>
+
+#### Merge by Ester Tsai
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSktGUenZS-TNc0_rtgc7H7q1TixSzzHSSOYGMPv954U3kQvK8mYIShlV87aHin8g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1GALNG1sKDCs-vTKLBT-LYzfZztqFRSUv/edit#slide=id.p1">source</a>)
+
+If you would like to check out more of Ester's Projects, please click (<a href="https://drive.google.com/drive/u/4/folders/1YaEYG9cPjVfVLCNz-raAXiuPekfrCF3J">here!</a>)
 
 </center>
 
@@ -150,7 +176,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 </center>
 
-#### Keyword Erros by Raine Hoang
+#### Keyword Errors by Raine Hoang
 
 <center>
 
