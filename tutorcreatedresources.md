@@ -219,36 +219,63 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 <hr>
 
-### Binning and Histograms
+### Statistics
 
+#### Which statistical method to use? by Claire Wang
 <center>
 
-</center>
-
-<hr>
-
-### Permutation Testing – Shuffling
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3IfZAbqXtscEPu-nTl6lWZcXh6AWfjKsXZpWDNc0UhueXsOYQ7ivShlwbn-PW1EZm7CunTLtq7rmt/embed?start=false&loop=false&delayms=60000&rm=minimal&slide=id.g17c0d9176ba_0_133" frameborder="0" width="640" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCMclR_mfN0?si=WTpVkrH0jsqCGJXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
-(<a href="https://docs.google.com/presentation/d/1P96Q5nnDn_K85XWx_fqiaV75cBVm0On8OZTamHgsLSw/">source</a>)
+(<a href="https://www.youtube.com/watch?v=NCMclR_mfN0&ab_channel=ClaireWang">source</a>)
 
 </center>
 
-<hr>
-
-### Permutation Testing – Summary
-
+#### Which statistical method to use? by Claire Wang
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSovXDonR6EmjrT45h4pY1mwmcKFMWVSdgpbKHC5HNTm9sbG7dojvvCDEQCjuk2dk1oA4gmwMogr8ZL/embed?start=false&loop=false&delayms=3000&rm=minimal&" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCMclR_mfN0?si=WTpVkrH0jsqCGJXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
-(<a href="https://docs.google.com/presentation/d/1TTWoQ7FU4tzBGc7EskF6WYccIn1BWQbTSizAiFc2p2o/edit?usp=sharing">source</a>)
+(<a href="https://www.youtube.com/watch?v=NCMclR_mfN0&ab_channel=ClaireWang">source</a>)
 
 </center>
+
+
+#### All about TVD by Calvin Nguyen
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmA2toOgg4s?si=CC5koakf6epl3A_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=WmA2toOgg4s&ab_channel=CalvinNguyen">source</a>)
+
+</center>
+
+
+#### What are P values? by Daniel Budidharma
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KNhINtlvsOQ?si=sgVo9swg1Z2EtqDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=KNhINtlvsOQ&ab_channel=ObscuroLucem">source</a>)
+
+</center>
+
+
+#### How to Choose Test Statitiscs For Hypothesis Testing by Cici Xu
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P_K5aC8W3xg?si=GhPYQbkhuNWGpcuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=P_K5aC8W3xg&ab_channel=XiyinXu">source</a>)
+
+</center>
+
