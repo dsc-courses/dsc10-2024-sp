@@ -19,15 +19,17 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 1. TOC
 {:toc}
 
-### Nested Evaluation
+### Dataframes
+
+#### Query Examples by Keenan Serrano
 
 <center>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpW0NzwT3LjZsIIDAgtSMRM1cl41Gp_Lf8k9GT-gm5sGAIynw4rsgiEFbIybClD6QtxarKaVKLbR9U/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="710" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(1.5px 5px 2.5px 5px);"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsZzqPaQRO1AEdfbAqXyfIDBvma-eLkNNIHA3Go3LJ86I40d569PuoEZq5oTB2Ug/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
-(<a href="https://docs.google.com/presentation/d/1weY7aeTAQQ2S05Rx5PF1K7MEBM-eRop-yrXpExrq4Cg/edit?usp=share_link">source</a>)
+(<a href="https://docs.google.com/presentation/d/1Z64-ytAXACj0MfvyLd7CiXqXrbMTCmOy/edit?usp=sharing&ouid=112628386230123957206&rtpof=true&sd=true">source</a>)
 
 </center>
 
