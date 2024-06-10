@@ -24,7 +24,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 #### Dataframe Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
-
+<br>
 
 #### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
 
@@ -152,6 +152,12 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 <hr>
 
 ### Coding Tips, Debugging Errors, and Jupyter Notebook Shortcuts
+
+#### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Raisen, Bill Wang, Leena Kang
+
+<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
+<br>
+
 
 #### Jupyter Notebook Keyboard Shortcuts by Pranav Rajaram
 <center>
