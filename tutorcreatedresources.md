@@ -232,17 +232,6 @@ If you would like to check out more of Raine's Projects, please click (<a href="
 
 </center>
 
-#### Which statistical method to use? by Claire Wang
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NCMclR_mfN0?si=WTpVkrH0jsqCGJXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
-(<a href="https://www.youtube.com/watch?v=NCMclR_mfN0&ab_channel=ClaireWang">source</a>)
-
-</center>
-
 
 #### All about TVD by Calvin Nguyen
 <center>
