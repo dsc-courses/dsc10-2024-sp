@@ -78,6 +78,28 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 </center>
 
+#### .str.contains(), .str methods by Michelle Hong
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OG-bmeozc1w?si=pJP9aXV-4eOpnm2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=OG-bmeozc1w&ab_channel=MichelleHong">source</a>)
+
+</center>
+
+#### String, Series, Array methods by Sophie Wang
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J05wJtO3CEU?si=etN4UZC2oOfzh8fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=J05wJtO3CEU&ab_channel=SophieWang">source</a>)
+
+</center>
+
 <hr>
 
 ### Probability
@@ -91,6 +113,17 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 <br>
 
 (<a href="https://drive.google.com/file/d/1tlCLK9sVG5YgVyDTy5lBhnye1CEDFx-8/view?usp=sharing">source</a>)
+
+</center>
+
+#### Probability Review
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oUiyLWeuY1I?si=xDRpkmAuo7rFvlii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+(<a href="https://www.youtube.com/watch?v=oUiyLWeuY1I&ab_channel=AthulithParaselli">source</a>)
 
 </center>
 
