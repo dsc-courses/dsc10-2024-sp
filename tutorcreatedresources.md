@@ -23,7 +23,8 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 #### Dataframe Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 
-<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658?pvs=4"></a>
+<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
+
 
 #### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
 
@@ -46,6 +47,34 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 <br>
 
 (<a href="https://www.youtube.com/watch?v=j6OI9zdAzNc&ab_channel=KateFeng">source</a>)
+
+</center>
+
+<hr>
+
+### Strings, Series, and Arrays
+
+#### String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+<center>
+  
+<iframe src="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+(<a href="https://drive.google.com/file/d/1_QX___9JYZm0GH5tw75dlQX4gIYY4RCf/view?usp=sharing">source</a>)
+
+
+</center>
+
+
+#### Series String Methods by Keenan Serrano, Norah Kerendian, Ylesia Wu
+<center>
+
+<iframe src="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+(<a href="https://drive.google.com/file/d/1n5m0DFc4rPupaDjEXEM_zMcoHmbd8pqG/view?usp=sharing">source</a>)
 
 </center>
 
