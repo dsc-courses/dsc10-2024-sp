@@ -11,7 +11,7 @@ parent: 📚 Resources
 
 🚨This page is under construction!🚨
 
-The interactive diagrams below are taken from lecture. Click on a diagram to "activate" it, then either click through it or use your arrow keys to navigate. If you'd like to see the diagram directly in Google Slides, click the "source" link.
+This page has content made by DSC 10 tutors over the course of time that they thought would be helpful. Feel free to click through on this page, or if you'd like to view the content directly in browser, click the "source" link.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +24,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 #### Dataframe Review by Nathaniel Del Rosario, Ashley Ho, Chaninder Rishi
 
 <a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Dataframe Review</a>
-<br>
+
 
 #### Query Examples by Keenan Serrano, Norah Kerendian, Ylesia Wu
 
@@ -155,8 +155,7 @@ If you would like to check out more of Ester's Projects, please click (<a href="
 
 #### Error Handling and Keyboard Shortcuts in Jupyter Notebooks by Aaron Raisen, Bill Wang, Leena Kang
 
-<a href="https://www.notion.so/DSC-10-DataFrames-Review-c072733a886c4b5985379750deae3658">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
-<br>
+<a href="https://github.com/BillWang04/dsc95_final_project">Link to Error Handling and Keyboard Shortcuts in Jupyter Notebooks</a>
 
 
 #### Jupyter Notebook Keyboard Shortcuts by Pranav Rajaram
