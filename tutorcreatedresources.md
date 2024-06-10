@@ -116,7 +116,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 </center>
 
-#### Probability Review
+#### Probability Review by Athulith Paraselli
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUiyLWeuY1I?si=xDRpkmAuo7rFvlii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,84 +132,6 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 ### Binning and Histograms
 
 <center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnRGwEnKP2V-Z82DlxW1b1nMb2F0zWyrXIzFSpQx_8Wd3MFaf56y2_u3JrLwZ5SjWmfapL5BJLfsDG/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="900" height="270" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
-style="clip-path: inset(3.5px 5.5px 10px 5px);">
-</iframe>
-
-(<a href="https://docs.google.com/presentation/d/1D4YhRuCjRivWVbjluXtxx_GgsdcMDBdesnwDtCEfDXY/edit#slide=id.gce1082596b_0_21">source</a>)
-
-</center>
-
-<hr>
-
-### Defining Functions
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKMMwGtrQOeLefj31fCtmbNOaJuKY32eBz1VwHi_5ui0AGYV3MoCjPUtQ_4SB1f9x4Iu6gbH0vFvmB/embed?start=false&loop=false&delayms=60000&rm=minimal" frameborder="0" width="800" height="466" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
-style="clip-path: inset(15px 5.5px 25px 5px);">
-</iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1iDoZctoUIAn7M5GeUT1D4q76Uwlub11TkYJWllS9vrM/edit?usp=sharing">source</a>)
-
-</center>
-
-<hr>
-
-### Merging
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8NBJswhPdgN73JKS6a7uK9S5MH0y_qhnhMv1wSusMJXwBcI1CTj2T20zJ5vVH45lVPt06gH1oTr7H/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="711" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1d3NNWbMx-6oWawPmVHjdclX-ybqy5I8k4mCcqSW-Whw/edit?usp=sharing">source</a>)
-
-</center>
-
-<hr>
-
-### Bootstrapping
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_iYHJYXSVMMZ-YQVFwMEFR6EFN3FDSAvaMyUm-YJfLQgRMTHm3vI-wWJJ5999eFJq70nWp2hyItZg/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1oYakqMdI7z61BthvgWUJvbT21bKTXg01KmAibglepBI/edit?usp=sharing">source</a>)
-
-</center>
-
-<hr>
-
-### Confidence Intervals
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaPZsueXI6fey_5cj2Y1TevkR1joBvpwaWVsZNvgBlnJSrw1EiBLHJywkFH_QNLU5Tdr6JZgDrhFxG/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1l5GVyl60FrornEaZnGL6REV4gjEydRncNVi6k1hHUsA/edit#slide=id.gf8f977745a_0_0">source</a>)
-
-</center>
-
-<hr>
-
-### The Central Limit Theorem
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcJd3U1H1KoXqBFcWGKFUPjZbeW4oiNZZLCFY8jqvSDsl4L1rRTg7980nPs1TGCAecYKUZxH5MZIBh/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1GX74m6k0PbLU6j5zPUuylbkcgsel2MPfcpfACZ45AVQ/edit?usp=sharing">source</a>)
 
 </center>
 
